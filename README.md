@@ -1,0 +1,2 @@
+# notgoodcode
+scratch, always scratch
